@@ -1,1 +1,1 @@
-it's a static clone of nokia website
+it's a static clone version  of nokia website
